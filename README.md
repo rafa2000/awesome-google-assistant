@@ -4,6 +4,9 @@ Awesome Google Assistant Curated Links
 ## Home
 - [assistant.google.com](https://assistant.google.com/)
 
+## General Info
+- [Wikipedia: Google_Assistant](https://en.wikipedia.org/wiki/Google_Assistant)
+
 ## Tips & Tricks
 
 - [10 Cool Things to do with it.](https://www.droidorigin.com/google-assistant-tips-and-tricks/) *2017.03.10*
