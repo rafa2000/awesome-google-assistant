@@ -16,3 +16,9 @@ Awesome Google Assistant Curated Links
 - [Google Assistant tips and tricks: Beginner to Expert.](https://www.androidpit.com/google-assistant-tips-and-tricks) *2017.03.16(?)*
 - [15 Cool Google Assistant Tricks You Should Try.](https://beebom.com/google-assistant-tricks/) *2017.03.16*
 - [Google Assistant tips and tricks: Master your Android assistant.](http://www.pocket-lint.com/news/139202-google-assistant-tips-and-tricks-master-your-android-assistant) *2017.03.02*
+
+## IFTTT
+
+**IF THIS THEN THAT**
+
+- [A Beginner's Guide to IFTTT on Android.](http://www.greenbot.com/article/3157040/android/a-beginners-guide-to-ifttt-on-android.html) *2017.01.18*
