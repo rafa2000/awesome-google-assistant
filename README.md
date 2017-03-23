@@ -35,7 +35,7 @@ All examples may need some background information. But the Google Assistant can 
 - "Tell me a sports joke"
 - "Remind me to check my bracket when I get home"
 - "What are the latest basketball scores?"
-- "When does the tournamet begin?"
+- "When does the tournament begin?"
 - "Find the nearest sport bar"
 - "Let's play Lucky Trivia Sports"
 
