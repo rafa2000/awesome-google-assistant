@@ -1,5 +1,5 @@
-# awesome-google-assistant
-Awesome Google Assistant Links
+# Awesome Google Assistant
+Awesome Google Assistant Curated Links
 
 ## Tips & Tricks
 
