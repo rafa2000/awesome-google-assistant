@@ -1,5 +1,5 @@
 # Awesome Google Assistant
-A curated list of awesome applications, tools, and resources for the Google Assistant Platform. Inspired by [other awesome projects](https://github.com/sindresorhus/awesome).
+A curated list of awesome applications, tools, and resources for the Google Assistant platform. Inspired by [other awesome projects](https://github.com/sindresorhus/awesome).
 
 ## Home
 - [assistant.google.com](https://assistant.google.com/)
