@@ -22,6 +22,7 @@ Awesome Google Assistant Curated Links
 
 **IF THIS THEN THAT**
 
+- [IFTTT for Android](https://play.google.com/store/apps/details?id=com.ifttt.ifttt)
 - [A Beginner's Guide to IFTTT on Android.](http://www.greenbot.com/article/3157040/android/a-beginners-guide-to-ifttt-on-android.html) *2017.01.18*
 
 ## Example Commands
